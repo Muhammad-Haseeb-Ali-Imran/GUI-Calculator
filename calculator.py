@@ -5,7 +5,7 @@ wn.title('GUI-Calculator')
 wn.geometry('670x650')
 inp=''
 history=[]
-wn.config(bg='grey')  # Dark Orchid
+wn.config(bg='grey')
 def cal():
     global inp
     try:
